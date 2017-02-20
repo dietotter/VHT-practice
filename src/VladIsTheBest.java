@@ -1,6 +1,6 @@
 
-public class VladIsTheBest {
+public class WEareIsTheBest {
 	public static void main(args [] a){
-		String a = new String();
+		System.out.println('lalalallaa');
 	} 		
 }
